@@ -1,0 +1,14 @@
+langchain
+langchain_community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+langchain-core
+pymupdf
+pypfd
+sentence-transformers
+faiss-cpu
+chromadb
+python-dotenv
+pageindex
